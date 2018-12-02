@@ -1,0 +1,12 @@
+.About-container {
+  text-align: left;
+}
+.About-container, p {
+  font-size: calc(3px + 2vmin);
+  padding: 8px;
+  margin: 0px;
+}
+.About-container, h4 {
+  padding: 4px;
+  margin: 0px;
+}

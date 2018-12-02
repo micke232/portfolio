@@ -1,0 +1,75 @@
+[
+  {
+    "name": "Space",
+    "link": "http://three.mikaelmodig.se/",
+    "text": "Space, the final frontier... linger around in this vast space, this is a demonstration of the true power of threeJS and webGL. This project is an info graphic in 3d, where you can move around in space and get random facts about space.",
+    "tech": ["ThreeJS"],
+    "git": "https://github.com/micke232/robotopia"
+  },
+  {
+    "name": "Robotopia",
+    "link": "http://robotopia.mikaelmodig.se/",
+    "text": "In this post apocalyptic 2d/3d world, you are a lonely robot that has been separated from your friend. Find spare parts to add additional functions to your robot, so that you are able to make you through the map and find your friend.",
+    "tech": ["ThreeJS"]
+  },
+  {
+    "name": "Festival X",
+    "link": "http://festivalx.mikaelmodig.se/",
+    "text": "Out of money and you really want to go to a festival? Festival X will give you the life experience, in 2d. Navigate around on the festival and visit the different music genres, this festival have it all, and it is 100% free!",
+    "tech": ["Canvas, HTML5, ReactJS"],
+    "git": "https://github.com/micke232/projectx"
+  },
+  {
+    "name": "Flower!",
+    "link": "http://vattna.mikaelmodig.se/",
+    "text": "I have so many flowers in my home, and I'm having a hard time to track the times I've watered them, so I have made an app to handle this. There is some kind of first draft of it, if you follow the link (design is terrible)",
+    "tech": ["React, Firebase"],
+    "git": "https://github.com/micke232/blommor"
+  },
+  {
+    "name": "Mouse X and Why?",
+    "link": "http://mouse.mikaelmodig.se/",
+    "text": "This is an experimental app I made to move around a ball, the use can move the red ball around with clicking on the screen, and if the red ball hits the black one it will move away from the red ball.",
+    "tech": ["Canvas, HTML5, Javascript"]
+  },
+  {
+    "name": "Matrix game",
+    "link": "http://canvas.mikaelmodig.se/",
+    "text": "Want a real challenge? This game will make your adrenaline level max out in this ground breaking game. You are the red pill, and your job is to eat the blue pills! But watch out for walls and the death bringing black pills.",
+    "tech": ["Canvas, HTML5, Javascript"]
+  },
+  {
+    "name": "Gyroscope",
+    "link": "http://gyro.mikaelmodig.se/",
+    "text": "Want a real challenge, again? This game will make your adrenaline level max out in this ground breaking game. You are the red pill, and your job is to eat the blue pills! But watch out for walls and the death bringing black pills. This time you can use your phone gyroscope to control the pill",
+    "tech": ["Canvas, HTML5, Javascript"]
+  },
+  {
+    "name": "Jeopardy",
+    "link": "#",
+    "text": "I made a Jeopardy board for a work-related event, this project does not have a url, and can only be downloaded on my github and run locally. Just fill in Q&A's in the json file and you are ready to go.",
+    "tech": ["React"],
+    "git": "https://github.com/micke232/jeopardy"
+  },
+  {
+    "name": "Square",
+    "link": "http://square.mikaelmodig.se/",
+    "text": "A rotating square, this was an experimental project to find out how 3d object could be rendered. It dose not look much, but it was super helpful for me in other projects were I was doing 3d. Only works with keyboard.",
+    "tech": ["Canvas, Javascript"],
+    "git": "https://github.com/micke232/square"
+  },
+  {
+    "name": "My first game!",
+    "link": "http://moving.mikaelmodig.se/",
+    "text": "This game was made of only html and javascript, it was a fun way to learn html and javascript. It has sound, and some minor game play to it. Making it as I remember it, was super fun and I learned a lot.",
+    "tech": ["HTML5, Javascript"],
+    "git": "https://github.com/micke232/square"
+  },
+  {
+    "name": "Map editor",
+    "link": "http://mapeditor.mikaelmodig.se/",
+    "text": "This is a map editor for my first game, when I was doing the game I noticed how slow the process was when I needed to create the map. So I made a map editor for it to save time, in it you can save your maps and load them.",
+    "tech": ["HTML5, Javascript"],
+    "git": "https://github.com/micke232/square"
+  }
+]

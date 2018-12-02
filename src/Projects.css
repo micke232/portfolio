@@ -1,0 +1,40 @@
+.Projects-container {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.Projects-item-container {
+  width: 600px;
+  margin: auto;
+  margin-top: 16px;
+  padding: 16px;
+  background-color: #393b3f;
+}
+
+.Projects-item-text {
+  text-align: justify;
+  margin: 8px;
+}
+
+.Projects-item-git {
+  height: 24px;
+  margin-right: 8px;
+}
+
+.Projects-item-link {
+  font-size: 16px;
+}
+
+a:link {
+  text-decoration: inherit;
+  color: inherit;
+}
+
+a:visited {
+  text-decoration: inherit;
+  color: inherit;
+}
+
+a:hover {
+  color: rgb(104, 104, 104);
+}
